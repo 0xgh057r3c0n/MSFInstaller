@@ -1,7 +1,7 @@
 # MetasPl0it Installer
 
 **MetasPl0it Installer** is a bash script designed to automate the installation of the **Metasploit Framework** on both **Linux** and **Termux** environments. This script ensures that all necessary dependencies are installed, PostgreSQL is configured, and the Metasploit console is ready for immediate use. The script also features a colorful ASCII banner themed with the Indian tricolor.
-
+![Logo](logo.png)
 ## Features
 
 - **Root/Sudo Privilege Check**: Ensures the script runs with appropriate permissions.
